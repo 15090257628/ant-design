@@ -22,7 +22,7 @@ ReactDOM.render(
   <>
     <Row>
       <Col span={8}>col-8</Col>
-      <Col span={8} offset={8}>
+      <Col span={8}>
         col-8
       </Col>
     </Row>
